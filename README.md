@@ -1,0 +1,2 @@
+# Sithafal
+Using RAG Pipeline
