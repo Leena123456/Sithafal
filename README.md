@@ -86,5 +86,5 @@ This project implements a **Retrieval-Augmented Generation (RAG)** pipeline to e
 - **Large Language Model:** OpenAI GPT or similar
 - **Framework:** `Streamlit` for the interactive UI
 
-![Task1](https://i.postimg.cc/d1jSw5P7/Whats-App-Image-2024-12-17-at-08-49-40-ee2e1e8a.jpg)
+![Task2](https://i.postimg.cc/d1jSw5P7/Whats-App-Image-2024-12-17-at-08-49-40-ee2e1e8a.jpg)
 
