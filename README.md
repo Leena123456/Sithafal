@@ -36,5 +36,5 @@ This project implements a **Retrieval-Augmented Generation (RAG)** pipeline to e
 3. Run the app using `streamlit run app.py`.
 4. Upload a PDF and start asking questions!
 
-![App Screenshot](https://postimg.cc/cvZjswrB)
+![App Screenshot]([https://postimg.cc/cvZjswrB](https://i.postimg.cc/13NZrKS2/Whats-App-Image-2024-12-17-at-08-49-58-0e20360d.jpg))
 
