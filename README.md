@@ -1,4 +1,4 @@
-# Chat with PDF using RAG (Retrieval-Augmented Generation) Pipeline
+#Task 1: Chat with PDF using RAG (Retrieval-Augmented Generation) Pipeline
 
 This project implements a **Retrieval-Augmented Generation (RAG)** pipeline to enable conversational AI with a PDF document. Users can upload a PDF file, and the system extracts its content, chunks the text, and indexes it for efficient retrieval. When users ask a question, the pipeline retrieves the most relevant information from the PDF and generates a context-aware response using a language model like GPT.
 
@@ -36,6 +36,5 @@ This project implements a **Retrieval-Augmented Generation (RAG)** pipeline to e
 3. Run the app using `streamlit run app.py`.
 4. Upload a PDF and start asking questions!
 
----
+![App Screenshot](https://postimg.cc/cvZjswrB)
 
-Let me know if you’d like this expanded or tailored further!
